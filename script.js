@@ -1,7 +1,9 @@
 let features = [
-    { id: 1, name: "Dark Mode", votes: 5 },
-    { id: 2, name: "Mobile App", votes: 10 },
-    { id: 3, name: "Public API", votes: 2 }
+    { id: 1, name: "Edit Button", votes: 10 },
+    { id: 2, name: "Voice Messages", votes: 5 },
+    { id: 3, name: "Video Calls", votes: 8 },
+    { id: 4, name: "Dark Theme", votes: 12 },
+    { id: 5, name: "Custom Emojis", votes: 3 }
 ];
 
 const board = document.getElementById('board');
